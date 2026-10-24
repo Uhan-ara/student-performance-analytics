@@ -157,7 +157,12 @@ student-performance-analytics/
 ├── students.csv
 ├── test_functions.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── screenshots/
+    ├── main_menu.png
+    ├── class_summary.png
+    ├── subject_analysis.png
+    └── top_performers.png
 ```
 
 ## How to Run
@@ -169,6 +174,28 @@ Open a terminal in the project folder and run:
 ```bash
 python -m pip install pandas numpy
 ```
+
+### 2. Run the application
+
+After the installation is complete, run:
+
+```bash
+python main.py
+```
+
+### 3. Use the menu
+
+The application provides the following options:
+
+1. View Student Data
+2. Class Performance Summary
+3. Subject-wise Analysis
+4. Top 5 Performers
+5. Attendance Analysis
+6. Search Student
+7. Exit
+
+Select an option by entering its corresponding number in the terminal.
 
 ## Results
 
