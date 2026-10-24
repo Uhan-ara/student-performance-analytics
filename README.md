@@ -162,7 +162,9 @@ student-performance-analytics/
     ├── main_menu.png
     ├── class_summary.png
     ├── subject_analysis.png
-    └── top_performers.png
+    ├── top_performers.png
+    ├── attendance_analysis.png
+    └── student_search.png
 ```
 
 ## How to Run
