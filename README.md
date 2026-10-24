@@ -210,4 +210,22 @@ Through this project, I gained practical experience in:
 
 ## GitHub Repository
 
-GitHub repository link will be added after the project is uploaded.
+[View the project on GitHub](https://github.com/Uhan-ara/student-performance-analytics)
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Class Performance Summary
+![Class Summary](screenshots/class_summary.png)
+
+### Subject-wise Analysis
+![Subject Analysis](screenshots/subject_analysis.png)
+
+### Top Performers
+![Top Performers](screenshots/top_performers.png)
+
+## Project Status
+
+Completed and tested successfully using the provided student dataset.
